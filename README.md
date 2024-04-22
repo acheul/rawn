@@ -4,7 +4,7 @@
 [![docs.rs](https://img.shields.io/docsrs/rawn?color=blue&label=docs.rs)](https://docs.rs/rawn)
 
 
-Helper of raw pointers handling.
+Helper of raw pointers cleaning.
 
 ## BoxRaw
 Trait `BoxRaw` is default implemented for tuples of mut raw pointers.
