@@ -1,0 +1,14 @@
+[package]
+name = "rawn"
+version = "0.1.0"
+edition = "2021"
+authors = ["Acheul <seoul605.21@gmail.com>"]
+repository = "https://github.com/acheul/rawn"
+description = "Helper of raw pointers cleaning."
+categories = ["Rust patterns"]
+keywords = ["raw pointer"]
+readme = "../readme.md"
+license = "MIT"
+
+[dependencies]
+paste = "1.0.14"
