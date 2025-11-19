@@ -7,7 +7,7 @@
 Helper of raw pointers cleaning.
 
 ## BoxRaw
-Trait `BoxRaw` is default implemented for tuples of mut raw pointers.
+Trait `BoxRaw` is blanket implemented for tuples of mut raw pointers.
 
 Struct `BoxRaws` is new type struct wrapping `BoxRaw` implemented type.
 
